@@ -1,0 +1,36 @@
+header{
+    background-color:lightseagreen;
+    color: white;
+    font-size: 28px;
+    border-bottom: 3px indigo; 
+    padding: 22px;
+     /*margin bottom impoe uma margem na parte de baixo*/
+    margin-bottom: 15px;
+    text-align:center;
+    box-sizing:border-box;
+       }
+section{
+    margin-left: 25%;
+    background-color:gainsboro;
+    margin-bottom: 15px;
+    padding-left: 12px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+    border: 1px black dashed;
+    border-radius: 5px;
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    box-sizing: border-box;
+    width: 50%;
+}    
+footer{
+    background-color: rebeccapurple;
+    color:white;
+    text-align:center;
+    padding: 12px;
+    height: 40px;
+    border-top: 1px lightseagreen;
+    box-sizing: border-box; 
+}
